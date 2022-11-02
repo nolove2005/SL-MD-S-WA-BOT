@@ -23,9 +23,6 @@
     "description": "Put your OPENAI key here.If you don't have just go on beta.openai.com/signup and get your key.",
        "value": "Paste here"
   },
-  "MONGODB_URI": {
-    "description": "A secret String for Mongodb Connection.(Required)"
-  },
     "LANGUAGE": {
     "description": "Language you want to use, please enter correct lang code.only english version avilable for now. Use EN-English, SP-Spanish Hi-Hindi.",
      "value": "EN"
